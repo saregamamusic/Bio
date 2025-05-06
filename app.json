@@ -1,7 +1,7 @@
 {
   "name": "𝐀ʟᴏɴᴇ 𝐁ɪᴏ 𝐋ɪɴᴋ",
   "description": "A Telegram bot using Pyrogram",
-  "repository": "https://github.com/TeamAloneOp/AloneBioLink",
+  "repository": "https://github.com/saregamamusic/Bio",
   "keywords": ["telegram", "bot", "pyrogram"],
   "env": {
     "API_ID": {
